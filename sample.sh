@@ -1,13 +1,9 @@
 ls
 ls -ltr
 pwd
-df
-pwd
-getopts
 
+man ls
 
-calender
-
-
+ps -l
 
 
